@@ -84,7 +84,7 @@ hr {
   float:right;
 }
 
-.experience-item .meta {
+.meta {
   display:block;
 }
 
@@ -95,4 +95,21 @@ hr {
 .experience-item .description {
   text-indent:0;
   margin:10px 0 10px 0;
+}
+
+#awards .award {
+  height:75px;
+  margin-bottom:30px;
+}
+
+#awards .award .title {
+  font-weight:bold;
+}
+
+#awards .award .logo {
+  float:right;
+}
+
+#footer {
+  font-size:12px;
 }
